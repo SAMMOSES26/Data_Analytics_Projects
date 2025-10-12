@@ -9,7 +9,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 The dataset used for this project is from a publicly available sample provided for learning and practice purposes, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File  
-My final dashboard is in [1_Salary_Dashboard.xlsx](https://github.com/SAMMOSES26/Data_Analytics_Projects/blob/main/Data_Analytics_Projects/Excel_Projects/DataScience_Salary_DashBoard/Data_Science_salary_Dashboard.xlsx)).  
+My final dashboard is in [1_Salary_Dashboard.xlsx](https://github.com/SAMMOSES26/Data_Analytics_Projects/blob/main/Data_Analytics_Projects/Excel_Projects/DataScience_Salary_DashBoard/Data_Science_salary_Dashboard.xlsx).  
 
 ### Excel Skills Used
 
