@@ -1,4 +1,4 @@
-# Excel Salary Dashboard
+# Excel Data Science Job Salary Dashboard
 
 ![DataScience_SalaryDashboard gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b0c6d282-deaa-4805-9f42-fd6d9c6d37cf)
 
