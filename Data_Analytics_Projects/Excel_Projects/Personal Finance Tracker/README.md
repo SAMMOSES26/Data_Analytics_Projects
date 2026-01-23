@@ -5,7 +5,7 @@ This project is a **Personal Finance Tracker built using Microsoft Excel** to an
 
 The objective of this project is to demonstrate **end-to-end data analysis workflow** — from data preparation and analysis to dashboard design, interactivity, and insight generation.
 
- ![2_Project_Analysis_Screenshot1.png](https://github.com/SAMMOSES26/Data_Analytics_Projects/blob/main/Data_Analytics_Projects/Excel_Projects/Personal%20Finance%20Tracker/assets/Recording%202026-01-23%20225816.mp4)
+ ![2_Project_Analysis_Screenshot1.png](https://github.com/SAMMOSES26/Data_Analytics_Projects/blob/main/Data_Analytics_Projects/Excel_Projects/Personal%20Finance%20Tracker/assets/main_dash_video.png)
 ---
 
 ## 🎯 Business Questions Addressed
