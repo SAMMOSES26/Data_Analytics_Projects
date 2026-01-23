@@ -100,12 +100,11 @@ The dashboard answers the following key questions:
 
 ---
 
-## 🔍 Key Analytical Insights
-- Total income exceeds total expenses, resulting in a positive available balance
-- Income is highly concentrated, with one primary source contributing the majority of total income
-- Housing and groceries represent the largest expense categories
-- Monthly trends show higher spending at the beginning of the year followed by stable patterns
-- Weekly trends indicate peak spending at the start of the week
+## 🔍 Key Insights
+- Expenses represent ~**46% of income**, leaving a positive balance of ~**54%**, indicating healthy financial management
+- Income is highly concentrated, with a single source contributing ~**76%** of total income
+- Housing and groceries account for over **50% of total expenditure**, making them the primary cost drivers
+
 
 ---
 
