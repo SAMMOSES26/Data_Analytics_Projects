@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is a **Personal Finance Tracker built using Microsoft Excel** to analyze income, expenses, and spending behavior through an **interactive dashboard**.
 
-The objective of this project is to demonstrate **end-to-end data analysis workflow** — from data preparation and analysis to dashboard design, interactivity, and insight generation**.
+The objective of this project is to demonstrate **end-to-end data analysis workflow** — from data preparation and analysis to dashboard design, interactivity, and insight generation.
 
 ---
 
