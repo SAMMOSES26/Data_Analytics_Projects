@@ -123,9 +123,8 @@ The insights generated can be used to:
 | Version Control | Git & GitHub |
 
 ---
-
 ## 📬 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/sammoseskumar/](#)
-- **Portfolio:** [https://www.unimad.ai/portfolio/sammoseskumar](#)
-- **GitHub:** [https://github.com/SAMMOSES26/](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/sammoseskumar/) •
+🌐 [Portfolio](https://www.unimad.ai/portfolio/sammoseskumar) •
+💻 [GitHub](https://github.com/SAMMOSES26/)
