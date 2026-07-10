@@ -6,83 +6,73 @@
 
 # 📌 Business Challenge
 
-A retail company lacked visibility into customer purchasing behaviour, making it difficult to identify profitable customer segments, evaluate promotional strategies, optimise product performance, and support data-driven commercial decisions.
-
-The objective of this project was to transform fragmented transactional data into meaningful business intelligence that enables faster, evidence-based decision making.
+A retail business wanted to gain a better understanding of its customers' shopping behaviour to support more informed business decisions. The aim was to identify valuable customer segments, understand purchasing patterns, assess the impact of discounts and subscriptions, and uncover opportunities to improve customer engagement and revenue.
 
 ---
 
-# 🚀 Business Value Delivered
+# 🚀 Project Outcome
 
-- Reduced the time required to analyse customer purchasing trends by consolidating multiple analytical processes into a single end-to-end workflow.
-- Enabled stakeholders to quickly identify high-value customer segments, improving opportunities for targeted marketing and customer retention initiatives.
-- Improved decision-making around discount strategies by revealing products heavily dependent on promotions and their impact on purchasing behaviour.
-- Delivered clear visibility into customer spending patterns, subscription performance, demographic trends, and product performance through interactive dashboards.
-- Supported merchandising and inventory planning by identifying best-selling and highest-rated products across categories.
-- Replaced manual exploration of transactional data with an automated analytical pipeline, allowing business users to obtain insights significantly faster.
-- Converted raw retail data into actionable recommendations that support marketing, pricing, customer engagement, and commercial strategy.
+This project transformed raw retail transaction data into meaningful business insights through an end-to-end analytics solution built using Python, PostgreSQL, SQL and Power BI.
 
----
+Key outcomes included:
 
-# ⏱️ Time-Based Value Proposition
-
-### Before
-
-Business teams would need to:
-
-- Extract data from multiple sources.
-- Clean inconsistent data manually.
-- Perform repetitive SQL analysis.
-- Build reports separately.
-- Combine findings manually before making business decisions.
-
-This process could take **hours or even days** before management received meaningful insights.
-
-### After
-
-This solution enables stakeholders to:
-
-- Explore customer behaviour instantly through an interactive dashboard.
-- Monitor KPIs in real time.
-- Identify revenue opportunities within minutes.
-- Analyse customer segments without writing SQL.
-- Make faster, data-driven business decisions from a single source of truth.
+- Cleaned and prepared over **3,900 customer transactions**, improving data quality by handling missing values, standardising fields and creating new analytical features.
+- Built a structured PostgreSQL database to support efficient SQL analysis and reporting.
+- Analysed customer purchasing behaviour to identify revenue trends, customer segments, subscription performance and product popularity.
+- Explored how discounts, shipping methods and demographics influenced customer spending and purchasing decisions.
+- Developed an interactive Power BI dashboard, allowing stakeholders to explore KPIs and business performance through dynamic visualisations.
+- Presented findings as practical business recommendations to support marketing, customer retention and product strategy.
 
 ---
 
-# 📊 Key Business Questions Answered
+# ⏱️ Business Value
+
+Before this analysis, answering business questions required manually reviewing data and running multiple reports.
+
+By bringing the data together into a single analytical workflow, the project enables stakeholders to:
+
+- Quickly identify high-value customer segments.
+- Understand purchasing behaviour across different customer groups.
+- Monitor business performance using an interactive dashboard.
+- Make more informed decisions around promotions, subscriptions and product strategy.
+- Spend less time preparing reports and more time acting on insights.
+
+---
+
+# 📊 Business Questions Answered
 
 - Which customer segments generate the highest revenue?
-- Are subscription programmes increasing customer value?
-- Which products depend heavily on discounts?
-- Which customer age groups contribute the highest revenue?
-- Are repeat customers becoming loyal customers?
-- Which products consistently receive the highest customer ratings?
-- Does shipping preference influence purchasing behaviour?
-- Which products dominate each retail category?
+- Do subscribers spend more than non-subscribers?
+- Which products rely most heavily on discounts?
+- Which age groups contribute the most revenue?
+- Are repeat customers more likely to subscribe?
+- Which products receive the highest customer ratings?
+- Does shipping preference influence spending?
+- Which products perform best within each category?
 
 ---
 
 # 📈 Business Impact
 
-The project demonstrates how data analytics can improve commercial performance by enabling businesses to:
+The analysis provided a clearer picture of customer behaviour and purchasing trends, helping to support data-driven decision making across the business.
 
-- Increase marketing efficiency through customer segmentation.
-- Improve customer retention using behavioural insights.
-- Optimise promotional strategies without relying on assumptions.
-- Improve product positioning using customer purchasing patterns.
-- Support executive decision-making through interactive business intelligence.
-- Reduce manual reporting effort by providing self-service analytics.
-- Enable faster strategic decisions using reliable, data-driven insights.
+The insights generated can be used to:
+
+- Improve customer targeting through better segmentation.
+- Support customer retention strategies.
+- Evaluate promotional and discount performance.
+- Identify top-performing products and sales opportunities.
+- Enable faster reporting through interactive dashboards.
+- Support commercial decisions using reliable data rather than assumptions.
 
 ---
 
 # 📊 Dashboard Preview
 
-> Executive Power BI Dashboard
+> **Interactive Power BI Dashboard**
 
 <p align="center">
-  <img src="images/dashboard.png" width="100%">
+  <img src="images/dashboard.png" alt="Customer Shopping Behaviour Dashboard" width="100%">
 </p>
 
 ---
@@ -90,34 +80,33 @@ The project demonstrates how data analytics can improve commercial performance b
 # 📂 Project Deliverables
 
 - 📊 Interactive Power BI Dashboard
-- 🐍 Python Data Cleaning & Feature Engineering
+- 🐍 Python Data Cleaning & Analysis
 - 🗄️ PostgreSQL Database
-- 📑 Advanced SQL Business Analysis
-- 📈 Executive Presentation
-- 📄 Business Report
+- 📑 SQL Business Analysis
+- 📈 Business Presentation
+- 📄 Project Report
 - 📓 Jupyter Notebook
 
 ---
 
 # 🛠️ Skills Demonstrated
 
-### Data Analytics
-- Exploratory Data Analysis
-- Business Intelligence
+### Data Analysis
+- Exploratory Data Analysis (EDA)
 - Customer Segmentation
 - KPI Development
-- Business Storytelling
+- Business Analytics
+- Data Storytelling
 
-### Data Engineering
+### Data Management
 - Data Cleaning
 - Feature Engineering
+- SQL
 - PostgreSQL
-- SQL Query Optimization
 
-### Visualisation
-
+### Data Visualisation
 - Power BI
-- Interactive Dashboards
+- Dashboard Development
 - Executive Reporting
 
 ---
@@ -125,17 +114,17 @@ The project demonstrates how data analytics can improve commercial performance b
 # ⚙️ Tech Stack
 
 | Category | Technology |
-|-----------|------------|
+|----------|------------|
 | Programming | Python |
 | Database | PostgreSQL |
 | Query Language | SQL |
-| Analytics | Pandas, NumPy |
-| BI Tool | Power BI |
+| Data Analysis | Pandas, NumPy |
+| Visualisation | Power BI |
 | Version Control | Git & GitHub |
 
 ---
 
-# 📬 Connect
+# 📬 Connect With Me
 
 - LinkedIn
 - Portfolio
