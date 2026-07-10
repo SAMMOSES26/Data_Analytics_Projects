@@ -67,12 +67,12 @@ The insights generated can be used to:
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 > **Interactive Power BI Dashboard**
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Customer Shopping Behaviour Dashboard" width="100%">
+  <img src="Images/Dashboard_Overview.png" alt="Customer Shopping Behaviour Dashboard" width="100%">
 </p>
 
 ---
