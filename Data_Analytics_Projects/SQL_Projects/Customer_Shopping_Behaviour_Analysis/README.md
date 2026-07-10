@@ -4,101 +4,139 @@
 
 ---
 
-## 📌 Business Problem
+# 📌 Business Challenge
 
-A retail company wanted to understand **what drives customer purchasing behaviour**, identify high-value customer segments, evaluate the effectiveness of discounts, and uncover opportunities to improve customer retention and revenue through data-driven decision-making.
+A retail company lacked visibility into customer purchasing behaviour, making it difficult to identify profitable customer segments, evaluate promotional strategies, optimise product performance, and support data-driven commercial decisions.
 
----
-
-## 🚀 What I Delivered
-
-- Designed and implemented an **end-to-end analytics solution**, transforming raw retail transaction data into actionable business insights using **Python, PostgreSQL, SQL, and Power BI**.
-- Cleaned and prepared **3,900+ customer transactions** by handling missing values, standardising data, engineering new analytical features, and improving overall data quality before loading the dataset into PostgreSQL for analysis.
-- Developed SQL analyses that answered **real business questions** around customer spending behaviour, subscription performance, product popularity, shipping preferences, discount effectiveness, customer loyalty, and revenue contribution across demographic segments.
-- Built an interactive **Power BI executive dashboard** enabling stakeholders to monitor customer KPIs, revenue trends, product performance, customer segments, and purchasing behaviour through dynamic filtering and visualisations.
-- Converted analytical findings into **business recommendations**, helping demonstrate how data can support marketing strategies, customer retention initiatives, pricing decisions, and product positioning.
+The objective of this project was to transform fragmented transactional data into meaningful business intelligence that enables faster, evidence-based decision making.
 
 ---
 
-## 📊 Dashboard Preview
+# 🚀 Business Value Delivered
 
-> **Interactive Power BI Dashboard**
+- Reduced the time required to analyse customer purchasing trends by consolidating multiple analytical processes into a single end-to-end workflow.
+- Enabled stakeholders to quickly identify high-value customer segments, improving opportunities for targeted marketing and customer retention initiatives.
+- Improved decision-making around discount strategies by revealing products heavily dependent on promotions and their impact on purchasing behaviour.
+- Delivered clear visibility into customer spending patterns, subscription performance, demographic trends, and product performance through interactive dashboards.
+- Supported merchandising and inventory planning by identifying best-selling and highest-rated products across categories.
+- Replaced manual exploration of transactional data with an automated analytical pipeline, allowing business users to obtain insights significantly faster.
+- Converted raw retail data into actionable recommendations that support marketing, pricing, customer engagement, and commercial strategy.
+
+---
+
+# ⏱️ Time-Based Value Proposition
+
+### Before
+
+Business teams would need to:
+
+- Extract data from multiple sources.
+- Clean inconsistent data manually.
+- Perform repetitive SQL analysis.
+- Build reports separately.
+- Combine findings manually before making business decisions.
+
+This process could take **hours or even days** before management received meaningful insights.
+
+### After
+
+This solution enables stakeholders to:
+
+- Explore customer behaviour instantly through an interactive dashboard.
+- Monitor KPIs in real time.
+- Identify revenue opportunities within minutes.
+- Analyse customer segments without writing SQL.
+- Make faster, data-driven business decisions from a single source of truth.
+
+---
+
+# 📊 Key Business Questions Answered
+
+- Which customer segments generate the highest revenue?
+- Are subscription programmes increasing customer value?
+- Which products depend heavily on discounts?
+- Which customer age groups contribute the highest revenue?
+- Are repeat customers becoming loyal customers?
+- Which products consistently receive the highest customer ratings?
+- Does shipping preference influence purchasing behaviour?
+- Which products dominate each retail category?
+
+---
+
+# 📈 Business Impact
+
+The project demonstrates how data analytics can improve commercial performance by enabling businesses to:
+
+- Increase marketing efficiency through customer segmentation.
+- Improve customer retention using behavioural insights.
+- Optimise promotional strategies without relying on assumptions.
+- Improve product positioning using customer purchasing patterns.
+- Support executive decision-making through interactive business intelligence.
+- Reduce manual reporting effort by providing self-service analytics.
+- Enable faster strategic decisions using reliable, data-driven insights.
+
+---
+
+# 📊 Dashboard Preview
+
+> Executive Power BI Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Customer Shopping Behavior Dashboard" width="100%">
+  <img src="images/dashboard.png" width="100%">
 </p>
 
 ---
 
-## 🎯 Business Questions Solved
+# 📂 Project Deliverables
 
-- ✔ Which customer segments generate the highest revenue?
-- ✔ Do subscribers spend more than non-subscribers?
-- ✔ Which products rely heavily on discounts?
-- ✔ Which age groups contribute the most revenue?
-- ✔ Are repeat buyers more likely to subscribe?
-- ✔ Which products consistently receive the highest customer ratings?
-- ✔ How does shipping preference influence customer spending?
-- ✔ Which products dominate each category?
-
----
-
-## 💡 Business Impact
-
-This project demonstrates how data analytics can support strategic business decisions by:
-
-- Identifying high-value customer segments for targeted marketing campaigns.
-- Improving customer retention through loyalty-focused insights.
-- Evaluating the effectiveness of discount strategies.
-- Optimising product positioning using customer ratings and purchasing trends.
-- Supporting executive decision-making through interactive dashboards and data storytelling.
+- 📊 Interactive Power BI Dashboard
+- 🐍 Python Data Cleaning & Feature Engineering
+- 🗄️ PostgreSQL Database
+- 📑 Advanced SQL Business Analysis
+- 📈 Executive Presentation
+- 📄 Business Report
+- 📓 Jupyter Notebook
 
 ---
 
-## 📂 Project Deliverables
+# 🛠️ Skills Demonstrated
 
-- 📊 **Power BI Dashboard** (`dashboard/Customer_Behavior_Dashboard.pbix`)
-- 📈 **Project Presentation** (`presentation/Customer_Shopping_Behavior_Presentation.pptx`)
-- 📄 **Business Report** (`report/Customer_Shopping_Behavior_Report.pdf`)
-- 🐍 **Python Scripts**
-- 🗄️ **SQL Queries**
-- 📓 **Jupyter Notebooks**
-
----
-
-## 🛠️ Technical Skills Demonstrated
-
-- Python (Pandas, NumPy)
-- PostgreSQL
-- SQL
-- Power BI
-- Data Cleaning & Validation
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
+### Data Analytics
+- Exploratory Data Analysis
+- Business Intelligence
 - Customer Segmentation
 - KPI Development
-- Dashboard Design
-- Data Visualisation
-- Business Analytics
 - Business Storytelling
+
+### Data Engineering
+- Data Cleaning
+- Feature Engineering
+- PostgreSQL
+- SQL Query Optimization
+
+### Visualisation
+
+- Power BI
+- Interactive Dashboards
+- Executive Reporting
 
 ---
 
-## 🔧 Tech Stack
+# ⚙️ Tech Stack
 
-| Category | Tools |
-|----------|-------|
+| Category | Technology |
+|-----------|------------|
 | Programming | Python |
 | Database | PostgreSQL |
 | Query Language | SQL |
-| Visualization | Power BI |
-| Libraries | Pandas, NumPy |
+| Analytics | Pandas, NumPy |
+| BI Tool | Power BI |
 | Version Control | Git & GitHub |
 
 ---
 
-## 📬 Connect With Me
+# 📬 Connect
 
-- **LinkedIn:** [Your LinkedIn](#)
-- **Portfolio:** [Your Portfolio](#)
-- **GitHub:** [Your GitHub](#)
+- LinkedIn
+- Portfolio
+- GitHub
