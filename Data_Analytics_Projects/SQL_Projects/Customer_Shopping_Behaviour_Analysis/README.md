@@ -124,8 +124,8 @@ The insights generated can be used to:
 
 ---
 
-# 📬 Connect With Me
+## 📬 Connect With Me
 
-- LinkedIn
-- Portfolio
-- GitHub
+- **LinkedIn:** [https://www.linkedin.com/in/sammoseskumar/](#)
+- **Portfolio:** [https://www.unimad.ai/portfolio/sammoseskumar](#)
+- **GitHub:** [https://github.com/SAMMOSES26/](#)
